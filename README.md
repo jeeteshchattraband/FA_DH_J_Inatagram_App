@@ -1,4 +1,4 @@
-# Piccolo 
+# Instagram Image
 
 [![Build Status](https://travis-ci.org/hvijay3/Piccolo.svg?branch=master)](https://travis-ci.org/hvijay3/Piccolo)
 
